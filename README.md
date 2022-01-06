@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Find the users and the job posted on github
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check the project [Check it out](https://iamfinder.netlify.app).
 
 ## Available Scripts
 
